@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GobbleImage</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="gobble_image_clear_button_text" translatable="false">New Image!</string>
+    <string name="gobble_image_prediction_text_placeholder" translatable="false">Feed me with images, Let me gobble!</string>
+</resources>
